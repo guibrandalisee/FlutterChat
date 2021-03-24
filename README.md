@@ -17,4 +17,4 @@ This app is quite old, so, somethings may not work with newer versions of plugin
 
 For the app to work you have to add your own google-services.json
 
-find out how to do it **[here](https://firebase.google.com/docs/android/setup)**
+find out how to do it **[here](https://firebase.google.com/docs/flutter/setup)**
