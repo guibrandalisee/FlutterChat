@@ -15,6 +15,10 @@ Why doesn't it support direct messages? As I said I made this app to learn Flutt
 
 This app is quite old, so, somethings may not work with newer versions of plugins used
 
-For the app to work you have to add your own google-services.json
+**For the app to work you have to add your own google-services.json**
 
 find out how to do it **[here](https://firebase.google.com/docs/flutter/setup)**
+
+**As the app uses google login feature you have to have a SHA-1 certificate while adding the app to your firebase**
+
+find out how to get a SHA-1 certificate **[here](https://developers.google.com/android/guides/client-auth)**
