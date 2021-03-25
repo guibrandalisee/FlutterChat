@@ -7,7 +7,7 @@
 
 **I made this app to learn how to use flutter, so don't expect much**
 
-<img src="https://github.com/Vaytorr/FlutterChat/blob/master/images/readme.jpg" alt="alt text" height="500">
+<img src="https://github.com/Vaytorr/FlutterChat/blob/master/images/readme.jpg" height="500">
 
 The app only has one general chat and does not support direct messages
 
@@ -19,6 +19,6 @@ This app is quite old, so, somethings may not work with newer versions of plugin
 
 find out how to do it **[here](https://firebase.google.com/docs/flutter/setup)**
 
-**As the app uses google login feature you have to have a SHA-1 certificate while adding the app to your firebase**
+**Since the app uses the Google login feature, you must have an SHA-1 certificate when adding the application to Firebase**
 
 find out how to get a SHA-1 certificate **[here](https://developers.google.com/android/guides/client-auth)**
