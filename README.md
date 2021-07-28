@@ -1,3 +1,4 @@
+[Versão em português desse arquivo](https://github.com/guibrandalisee/FlutterChat/blob/master/READMEPT.md)
 
 # Flutter Chat APP
 
@@ -15,7 +16,7 @@ The app only has one general chat and does not support direct messages
 
 Why doesn't it support direct messages? As I said I made this app to learn Flutter
 
-This app is quite old, so, somethings may not work with newer versions of plugins used
+This app is quite old, so, somethings may not work with newer versions of packages used
 
 **For the app to work you have to add your own google-services.json**
 
