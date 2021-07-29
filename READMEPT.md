@@ -10,7 +10,7 @@
 
 **Fiz este aplicativo para aprender Flutter, então não tenha grandes expectativas sobre ele**
 
-<img src="https://github.com/Vaytorr/FlutterChat/blob/master/images/readme.jpg" height="500">
+<img src="https://user-images.githubusercontent.com/41174096/127568632-cd328db8-dc8b-41b2-b46f-bf57e4e092ff.png" height="500">
 
 O app só tem um chat geral, e não tem suporte para mensagens diretas
 
