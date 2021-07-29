@@ -10,7 +10,7 @@
 
 **I made this app to learn how to use flutter, so don't expect much**
 
-<img src="https://github.com/Vaytorr/FlutterChat/blob/master/images/readme.jpg" height="500">
+<img src="https://user-images.githubusercontent.com/41174096/127568632-cd328db8-dc8b-41b2-b46f-bf57e4e092ff.png" height="500">
 
 The app only has one general chat and does not support direct messages
 
